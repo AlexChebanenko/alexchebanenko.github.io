@@ -21,7 +21,7 @@ categories: ремонт
 {% include image-gallery.html folder="assets/img/2021-05-13-olecolor-paint-review/2_cleaned" %}
 
 ## Цвет
-Результат покраски снят в вечернем освещении с солнечной и теневой сторон.
+Результат покраски снят в дневном и вечернем освещении с солнечной и теневой сторон.
 {% include image-gallery.html folder="/assets/img/2021-05-13-olecolor-paint-review/3_painted" %}
 Заявленный цвет выглядел так:
 
